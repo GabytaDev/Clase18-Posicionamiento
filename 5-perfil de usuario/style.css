@@ -1,11 +1,11 @@
 .card{
     width: 400px;
     height: 400px;
-    background-color: pink;
+    background-color: #ffc0cb;
     border-radius: 30px;
     padding: 10px;
     text-align: center;
-    
+    box-shadow: 4px 4px 8px 0 rgb(0 0 0 / 20%)
     
 }
 .contenedor-imagen{
@@ -13,11 +13,14 @@
     height: 150px;
     padding: 20px;
     border-radius: 50%;
-    border: 1px solid palevioletred;
+    border: 1px solid #d87093;
     margin-left: 100px;
     margin-top: 50px;
 }
 
+p{
+    color: rgb(80, 80, 80);
+}
 
 img{
     width: 100%;
