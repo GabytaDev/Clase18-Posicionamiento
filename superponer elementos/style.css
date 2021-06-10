@@ -23,12 +23,23 @@
 
 .two {
     background-color: darkcyan;
+    position: relative;
+    right: 70px; /*Alejate de tu derecha*/
+    top:100px; /* Alejate de tu top*/
 }
 
 .three {
     background-color: darkolivegreen;
+    position: relative;
+    right: 140px;
+    top:200px;
+
 }
 
 .four {
     background-color: darkred;
+    position: relative;
+    right: 210px;
+    top: 300px;
 }
+
