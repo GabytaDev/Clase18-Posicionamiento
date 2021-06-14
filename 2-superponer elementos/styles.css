@@ -4,7 +4,7 @@
     flex-wrap: wrap;
     width: 400px;
     height: 800px;
-    border: 1px solid black;
+    border: 1px solid rgb(134, 133, 133);
     
 }
 
@@ -13,6 +13,7 @@
     height: 100px;
     background-color: #c5c2c2;
     margin: 10px;
+    position: relative;
 }
 
 .rojo{
@@ -27,8 +28,40 @@
     background-color: #008000;
 }
 
-.uno{
+.verde-uno{
     position: relative;
     left: 70px;
     top:10px
+}
+
+.rojo-dos{
+   position: absolute;
+   top: 40px; 
+}
+.verde-dos{
+    position: absolute;
+    left: 70px;
+}
+
+.verde-tres{
+    position: absolute;
+    left: 70px;
+    top:0;
+}
+
+.rojo-tres{
+    position: absolute;
+    top: 40px;
+    left: 40px;
+}
+
+.rojo-cuatro{
+    position: absolute;
+    top:40px
+}
+
+.verde-cuatro{
+    position: absolute;
+    top:70px;
+    left: 30px;
 }
