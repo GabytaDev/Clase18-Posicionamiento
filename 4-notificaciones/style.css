@@ -10,14 +10,17 @@ body{
 }
 .menu{
     margin: 5px;
-    border: 1px solid red;
+    padding: 10px;
+    color: #ffffff;
+    font-size: 50px;
 }
+
 .contenedor-iconos{
     margin: 5px;
     border: 1px solid red;
     display: flex;
 }
-.mas-info{
+.menu-puntos{
     margin: 5px;
     border: 1px solid red;
 }
