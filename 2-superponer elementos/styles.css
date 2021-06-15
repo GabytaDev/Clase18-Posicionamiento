@@ -87,3 +87,36 @@
     left: 70px;
     top: 40px;
 }
+.rojo-siete{
+    position: relative;
+    left: 20px;
+}
+.verde-siete{
+    position: relative;
+    top:10px;
+}
+
+
+.rojo-ocho{
+    position: absolute;
+    left: 20px;
+    bottom: 0;
+
+}
+.verde-ocho{
+    position: absolute;
+    left: 35px;
+    bottom: 0;
+}
+
+.rojo-nueve{
+    position: absolute;
+    left: 20px;
+    top:20px
+}
+
+.verde-nueve{
+    position: absolute;
+    left: 35px;
+    top:35px
+}
