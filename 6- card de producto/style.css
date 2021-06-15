@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(177, 175, 175);
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    
+}
+
+.card{
+    background-color: #ffffff;
+    width: 400px;
+    height: 600px;
+    padding: 60px 20px;
+    font-size: 300px;
+    text-align: center;   
+}
+
+.texto{
+    font-size: 30px;
+}
