@@ -18,7 +18,6 @@ body{
 .contenedor-iconos{
     margin: 5px;
     padding: 10px;
-    border: 1px solid red;
     display: flex;
     color: #ffffff;
     font-size: 50px;
@@ -28,4 +27,29 @@ body{
 
 .contenedor-iconos >.fa-ellipsis-v {
     color: hsla(0, 0%, 100%, 0.767);
+}
+.notificacion{
+    width: 20px;
+    height: 20px;
+    background-color: rgb(238, 77, 77);
+    font-size: 14px;
+    padding: 2px;
+    text-align: center;
+    border-radius: 100%;
+}
+
+.diez{
+    position: absolute;
+    right: 255px;
+    top:5px;
+}
+.cinco{
+    position: absolute;
+    right: 172px;
+    top:5px;
+}
+.tres{
+    position: absolute;
+    right: 73px;
+    top:5px;
 }
