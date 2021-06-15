@@ -65,3 +65,25 @@
     top:70px;
     left: 30px;
 }
+.rojo-cinco{
+    position: absolute;
+    left: 40px;
+}
+
+.verde-cinco{
+    position: absolute;
+    top:30px;
+    left: 40px;
+}
+
+.rojo-seis{
+    position: absolute;
+    left: 40px;
+    bottom: 0px;
+}
+
+.verde-seis{
+    position: absolute;
+    left: 70px;
+    top: 40px;
+}
